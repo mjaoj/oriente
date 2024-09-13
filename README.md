@@ -6,8 +6,6 @@
 
 ### Calendário Semanal de Disponibilidade
 
-## Calendário Semanal de Disponibilidade
-
 <table>
   <tr>
     <th>Horário</th>
