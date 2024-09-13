@@ -3,7 +3,6 @@
 ### Link para Marcação de Reunião Virtual
 [Agendar Reunião](https://calendly.com/miguel-oliveira-jr/meet)
 
----
 
 ### Calendário Semanal de Disponibilidade
 
@@ -68,7 +67,6 @@
   </tr>
 </table>
 
----
 
 ### Inspiração para o Caminho:
 
