@@ -1,10 +1,11 @@
 # Se Oriente: Calendário de Reuniões e Disponibilidade
 
-## [Agendar Reunião Virtual](https://calendly.com/miguel-oliveira-jr/meet)
+### Link para Marcação de Reunião Virtual
+[Agendar Reunião](https://calendly.com/miguel-oliveira-jr/meet)
 
 ---
 
-## Calendário Semanal de Disponibilidade
+### Calendário Semanal de Disponibilidade
 
 <table style="width:100%; border:1px solid black; border-collapse: collapse;">
   <tr style="background-color:#f2f2f2;">
