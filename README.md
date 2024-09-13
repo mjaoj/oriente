@@ -15,9 +15,17 @@
     <th>Sexta</th>
   </tr>
   <tr>
+    <td>13h - 14h</td>
+    <td>-</td>
+    <td>Remildo</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>14h - 15h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia, Remildo</td>
     <td>Eliel, Nathalia</td>
     <td>Arthur</td>
     <td>Eliel</td>
@@ -25,7 +33,7 @@
   <tr>
     <td>15h - 16h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia, Remildo</td>
     <td>Eliel, Nathalia</td>
     <td>Arthur</td>
     <td>Eliel</td>
@@ -33,7 +41,7 @@
   <tr>
     <td>16h - 17h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia, Remildo</td>
     <td>Nathalia</td>
     <td>Arthur</td>
     <td>Eliel</td>
