@@ -1,66 +1,67 @@
-# Link para Marcação de Reunião Virtual
-[Agendar Reunião](https://calendly.com/miguel-oliveira-jr/meet)
+# Se Oriente: Calendário de Reuniões e Disponibilidade
+
+## [Agendar Reunião Virtual](https://calendly.com/miguel-oliveira-jr/meet)
 
 ---
 
 ## Calendário Semanal de Disponibilidade
 
-<table>
-  <tr>
-    <th>Horário</th>
-    <th>Segunda</th>
-    <th>Terça</th>
-    <th>Quarta</th>
-    <th>Quinta</th>
-    <th>Sexta</th>
+<table style="width:100%; border:1px solid black; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="border:1px solid black; padding: 8px;">Horário</th>
+    <th style="border:1px solid black; padding: 8px;">Segunda</th>
+    <th style="border:1px solid black; padding: 8px;">Terça</th>
+    <th style="border:1px solid black; padding: 8px;">Quarta</th>
+    <th style="border:1px solid black; padding: 8px;">Quinta</th>
+    <th style="border:1px solid black; padding: 8px;">Sexta</th>
   </tr>
   <tr>
-    <td>13h - 14h</td>
-    <td>-</td>
-    <td>Remildo</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td style="border:1px solid black; padding: 8px;">13h - 14h</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
+    <td style="border:1px solid black; padding: 8px;">Remildo</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
   </tr>
   <tr>
-    <td>14h - 15h</td>
-    <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Eliel, Nathalia</td>
-    <td>Arthur</td>
-    <td>Eliel</td>
+    <td style="border:1px solid black; padding: 8px;">14h - 15h</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Eliel, Nathalia, Remildo</td>
+    <td style="border:1px solid black; padding: 8px;">Eliel, Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">Eliel</td>
   </tr>
   <tr>
-    <td>15h - 16h</td>
-    <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Eliel, Nathalia</td>
-    <td>Arthur</td>
-    <td>Eliel</td>
+    <td style="border:1px solid black; padding: 8px;">15h - 16h</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Eliel, Nathalia, Remildo</td>
+    <td style="border:1px solid black; padding: 8px;">Eliel, Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">Eliel</td>
   </tr>
   <tr>
-    <td>16h - 17h</td>
-    <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Nathalia</td>
-    <td>Arthur</td>
-    <td>Eliel</td>
+    <td style="border:1px solid black; padding: 8px;">16h - 17h</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Eliel, Nathalia, Remildo</td>
+    <td style="border:1px solid black; padding: 8px;">Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">Eliel</td>
   </tr>
   <tr>
-    <td>17h - 18h</td>
-    <td>Arthur</td>
-    <td>Arthur, Eliel</td>
-    <td>Nathalia</td>
-    <td>Arthur</td>
-    <td>-</td>
+    <td style="border:1px solid black; padding: 8px;">17h - 18h</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Eliel</td>
+    <td style="border:1px solid black; padding: 8px;">Nathalia</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
   </tr>
   <tr>
-    <td>18h - 19h</td>
-    <td>Arthur</td>
-    <td>Arthur, Eliel</td>
-    <td>-</td>
-    <td>Arthur</td>
-    <td>-</td>
+    <td style="border:1px solid black; padding: 8px;">18h - 19h</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur, Eliel</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
+    <td style="border:1px solid black; padding: 8px;">Arthur</td>
+    <td style="border:1px solid black; padding: 8px;">-</td>
   </tr>
 </table>
 
