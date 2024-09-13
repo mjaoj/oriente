@@ -3,11 +3,11 @@
 
 ---
 
-## Disponibilidade Semanal dos Membros do Grupo de Pesquisa
+## Calendário Semanal de Disponibilidade
 
 <table>
   <tr>
-    <th>Dia/Horário</th>
+    <th>Horário</th>
     <th>Segunda</th>
     <th>Terça</th>
     <th>Quarta</th>
@@ -15,27 +15,43 @@
     <th>Sexta</th>
   </tr>
   <tr>
-    <td><strong>Arthur</strong></td>
-    <td>14h - 19h</td>
-    <td>14h - 19h</td>
-    <td>-</td>
-    <td>14h - 19h</td>
+    <td>14h - 15h</td>
+    <td>Arthur, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia</td>
+    <td>Eliel, Nathalia</td>
+    <td>Arthur</td>
+    <td>Eliel</td>
+  </tr>
+  <tr>
+    <td>15h - 16h</td>
+    <td>Arthur, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia</td>
+    <td>Eliel, Nathalia</td>
+    <td>Arthur</td>
+    <td>Eliel</td>
+  </tr>
+  <tr>
+    <td>16h - 17h</td>
+    <td>Arthur, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia</td>
+    <td>Nathalia</td>
+    <td>Arthur</td>
+    <td>Eliel</td>
+  </tr>
+  <tr>
+    <td>17h - 18h</td>
+    <td>Arthur</td>
+    <td>Arthur, Eliel</td>
+    <td>Nathalia</td>
+    <td>Arthur</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><strong>Eliel</strong></td>
+    <td>18h - 19h</td>
+    <td>Arthur</td>
+    <td>Arthur, Eliel</td>
     <td>-</td>
-    <td>14h - 19h</td>
-    <td>14h - 18h</td>
-    <td>-</td>
-    <td>14h - 17h</td>
-  </tr>
-  <tr>
-    <td><strong>Nathalia</strong></td>
-    <td>14h - 19h</td>
-    <td>14h - 17h</td>
-    <td>14h - 17h</td>
-    <td>-</td>
+    <td>Arthur</td>
     <td>-</td>
   </tr>
 </table>
