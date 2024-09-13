@@ -16,6 +16,38 @@
     <th>Sexta</th>
   </tr>
   <tr>
+    <td>09h - 10h</td>
+    <td>Maria Irene</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>10h - 11h</td>
+    <td>Maria Irene</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11h - 12h</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>12h - 13h</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Maria Irene</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>13h - 14h</td>
     <td>-</td>
     <td>Remildo</td>
@@ -26,31 +58,31 @@
   <tr>
     <td>14h - 15h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Eliel, Nathalia</td>
-    <td>Arthur</td>
+    <td>Arthur, Eliel, Nathalia, Remildo, Maria Irene</td>
+    <td>Eliel, Nathalia, Maryanne</td>
+    <td>Arthur, Maria Irene</td>
     <td>Eliel</td>
   </tr>
   <tr>
     <td>15h - 16h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Eliel, Nathalia</td>
+    <td>Arthur, Eliel, Nathalia, Jamilli, Remildo, Maria Irene</td>
+    <td>Eliel, Nathalia, Maryanne</td>
     <td>Arthur</td>
-    <td>Eliel</td>
+    <td>Eliel, Jamilli</td>
   </tr>
   <tr>
     <td>16h - 17h</td>
     <td>Arthur, Nathalia</td>
-    <td>Arthur, Eliel, Nathalia, Remildo</td>
-    <td>Nathalia</td>
+    <td>Arthur, Eliel, Nathalia, Jamilli, Remildo, Maria Irene</td>
+    <td>Nathalia, Maryanne</td>
     <td>Arthur</td>
-    <td>Eliel</td>
+    <td>Eliel, Jamilli</td>
   </tr>
   <tr>
     <td>17h - 18h</td>
     <td>Arthur</td>
-    <td>Arthur, Eliel</td>
+    <td>Arthur, Eliel, Jamilli</td>
     <td>Nathalia</td>
     <td>Arthur</td>
     <td>-</td>
@@ -58,7 +90,7 @@
   <tr>
     <td>18h - 19h</td>
     <td>Arthur</td>
-    <td>Arthur, Eliel</td>
+    <td>Arthur, Eliel, Jamilli</td>
     <td>-</td>
     <td>Arthur</td>
     <td>-</td>
