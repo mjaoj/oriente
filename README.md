@@ -50,15 +50,15 @@
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">13h - 14h</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Eliel</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Remildo, Eliel</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">-</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Remildo</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">-</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">-</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">-</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Eliel</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">14h - 15h</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel, Nathalia, Remildo, Maria Irene</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Eliel, Nathalia, Maryanne</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Maria Irene</td>
@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">15h - 16h</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel, Nathalia, Jamilli, Remildo, Maria Irene</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Eliel, Nathalia, Maryanne</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
@@ -74,25 +74,25 @@
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">16h - 17h</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Nathalia, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel, Nathalia, Jamilli, Remildo, Maria Irene</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Nathalia, Maryanne</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nathalia, Maryanne, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Eliel, Jamilli</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">17h - 18h</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel, Jamilli</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Nathalia</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nathalia, Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">-</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Eliel</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">18h - 19h</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur, Eliel, Jamilli</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">-</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Eliel</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Arthur</td>
       <td style="border: 1px solid #ddd; padding: 8px;">-</td>
     </tr>
