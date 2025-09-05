@@ -1,4 +1,4 @@
-# Se Oriente: Calendário de Reuniões e Disponibilidade
+# Se Oriente
 
 ### Link para Marcação de Reunião Virtual
 [Agendar Reunião](https://calendly.com/miguel-oliveira-jr/meet)
