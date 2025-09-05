@@ -7,7 +7,7 @@
 [Consultar](https://timeful.app/e/b57fB)
 
 ### Instruções Gerais
-[Consultar]([https://timeful.app/e/b57fB](https://docs.google.com/document/d/1kVmdghjhEfcGvspcl1J0brd4eqLxa_HY8hmlAypP0SU/edit?usp=sharing))
+[Consultar]([https://timeful.app/e/b57fB](https://docs.google.com/document/d/1kVmdghjhEfcGvspcl1J0brd4eqLxa_HY8hmlAypP0SU/edit?usp=sharing)
 
 ### Inspiração para o Caminho:
 
