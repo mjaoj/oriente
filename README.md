@@ -3,7 +3,7 @@
 ### Link para Marcação de Reunião Virtual
 [Agendar Reunião](https://calendly.com/miguel-oliveira-jr/meet)
 
-### Calendário Semanal de Disponibilidade
+### Calendário Semanal de Permanência
 [Consultar](https://timeful.app/e/b57fB)
 
 ### Instruções Gerais
